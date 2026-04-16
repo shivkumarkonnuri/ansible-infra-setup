@@ -1,0 +1,8 @@
+.git
+.terraform
+.terraform.lock.hcl
+ansible-master-key
+hosts.ini
+terraform.tfstate
+terraform.tfstate.backup
+terraform.tfvars
