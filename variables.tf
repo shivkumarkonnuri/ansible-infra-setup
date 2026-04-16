@@ -19,5 +19,5 @@ variable "environment" {
 variable "ssh_key_path" {
   description = "Path to SSH private key"
   type        = string
-  default     = "~/keys/terra-key-ansible"
+  default     = "~/keys/ansible-master-key"
 }
